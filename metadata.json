@@ -1,0 +1,6 @@
+{
+  "name": "DentLink Pro",
+  "description": "Professional dental referral and clinical collaboration platform connecting GPs, specialists, students, and clinics securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
